@@ -1,2 +1,3 @@
-Seize the day
-and let the night seize.
+Seize the day.
+and let the night Seize itself
+like always.
