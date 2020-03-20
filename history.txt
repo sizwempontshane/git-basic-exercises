@@ -1,0 +1,326 @@
+    1  ls
+    2  cd desktop
+    3  ls
+    4  README.md
+    5  is
+    6  ls
+    7  README.me
+    8  ls
+    9  pwd
+   10  workspace
+   11  ls
+   12  pwd
+   13  mkdir workspace
+   14  cd
+   15  ls
+   16  pwd
+   17  mkdir workspace
+   18  rmdir workspace
+   19  touch README.md
+   20  ls
+   21  pwd
+   22  mkdir workspace
+   23  ls
+   24  cd workspace
+   25  ls
+   26  touch README.md
+   27  cp README.md CHANGELOG.md
+   28  cd Desktop
+   29  exercise.md
+   30  cd Desktop
+   31  touch exercise.md
+   32  mv exercise.md tmp
+   33  rmv /home/recruit/tmp/exercise.md
+   34  rm /home/recruit/tmp/exercise.md
+   35  mv exercise.md /tmp/
+   36  /tmp/
+   37  cd ~-
+   38  cd /tmp/
+   39  cd ~-
+   40  touch exercise.md
+   41  mv exercise.md /tmp/
+   42  cd /tmp/
+   43  ls
+   44  cd ~-
+   45  rm /tmp/exercise.md
+   46  cd /tmp/
+   47  ls
+   48  cd ~-
+   49  cd Desktop
+   50  cd /tmp/
+   51  touch exercise.md
+   52  ls
+   53  rm /tmp/exercise.md
+   54  ls
+   55  cd workspace
+   56  touch umuzi.md
+   57  ls
+   58  cd workspace
+   59  touch umuzi.md recruits.md cohort.md
+   60  ls
+   61  nano umuzi.md 
+   62  nano recruit.md
+   63  cd workspace
+   64  ls
+   65  rm cohort.md recruits.md umuzi.md
+   66  ls
+   67  cd workspace
+   68  ls
+   69  nano umuzi.md recruits.md cohort.md
+   70  cat umuzi.md recruits.md cohort.md
+   71  cat umuzi.md recruits.md cohort.md > summary.md
+   72  echo "The End" >> summary.md
+   73  locate umuzi
+   74  locate umuzi > search_result.md
+   75  cd Documents
+   76  touch pad.md
+   77  ls
+   78  cd recruit
+   79  cd /recruit
+   80  cd home
+   81  cd /home
+   82  cd recruits
+   83  cd recruit
+   84  ls
+   85  cd Desktop
+   86  mkdir work
+   87  ls
+   88  cp Documents/pad.md work/pad_copy.md
+   89  ls
+   90  cd work
+   91  ls
+   92  cd work
+   93  cd Documents
+   94  ls
+   95  cp pad.md ../Desktop/work/pad_copy.md
+   96  cd ../Desktop
+   97  l
+   98  cd work
+   99  ls
+  100  ../Desktop
+  101  cd ..
+  102  rm -r work
+  103  ls
+  104  cd Documents
+  105  ls
+  106  rm pad.md
+  107  ls
+  108  cd Documents
+  109  ls
+  110  touch pad.md
+  111  ls
+  112  cd ../Desktop
+  113  ls
+  114  mkdir work
+  115  ls
+  116  cp ../Documents/pad.md work/pad_copy.md
+  117  ls
+  118  cd work
+  119  ls
+  120  locate updatedb
+  121  cd -
+  122  locate pad_copy.md
+  123  sudo updatedb
+  124  locate pad_copy.md
+  125  find -name *.pdf
+  126  find -name *.pdf >> Documents/1result.md
+  127  ls
+  128  cd Documents
+  129  ls
+  130  cd ../Home
+  131  cd 
+  132  find -mtime -1 -print
+  133  nano ,y_bio.md
+  134  nano my_bio.md
+  135  mkdir my_files
+  136  ls 
+  137  mv my_bio my_file
+  138  mv my_bio my_files
+  139  ls
+  140  mv my_bio /my_files
+  141  mv my_bio my_files/
+  142  mv my_bio.md my_files
+  143  cd my_files
+  144  ls
+  145  find -name *.pdf
+  146  find -name *.pdf >> Documents/1result.md
+  147  cd Documents
+  148  ls
+  149  cd..
+  150  cd ..
+  151  find -mtime -1 -print
+  152  sudo apt update
+  153  sudo apt upgrade
+  154  sudo apt install
+  155  sudo apt install tree
+  156  cd Downloads
+  157  ls
+  158  cd Downloads
+  159  ls
+  160  cd Downloads
+  161  ls
+  162  sudo dpkg -i CVS.deb
+  163  mkdir git-basic-exercise
+  164  cd git-basic-exercises
+  165  rmdir git-basic-exercise
+  166  mkidr git-basic-exercises
+  167  mkdir git-basic-exercises
+  168  cd git-basic-exercises
+  169  ls
+  170  ls -a
+  171  git init
+  172  sudo apt install git
+  173  git init
+  174  ls
+  175  ls -a
+  176  git status
+  177  touch README.md
+  178  .ls -a
+  179  ls -a
+  180  git status
+  181  git log
+  182  git add README.md
+  183  ls -a
+  184  git status
+  185  git rm --cached <README.md>...
+  186  git rm --cached <README.md>
+  187  ls -a
+  188  git status
+  189  git reset
+  190  git status
+  191  git add README.md
+  192  git status
+  193  git commit -m "initial commit"
+  194  git config --global user.name 
+  195  git config --global user.name "SizweSeize"
+  196  git commit -m "initial commit"
+  197  git log
+  198  q
+  199  sudo apt install python-q-text-as-data 
+  200  sudo apt install python3-q-text-as-data
+  201  q
+  202  clear
+  203  nano README.md
+  204  cat README.md
+  205  git stats
+  206  git status
+  207  git add README.md
+  208  ls -a
+  209  git status
+  210  git commit -m "second commit"
+  211  git commit -m "third commit"
+  212  nano README.md
+  213  cat README.md
+  214  git status
+  215  git add README.md
+  216  git stauts
+  217  git status
+  218  git commit -m "third commit"
+  219  clear
+  220  \git log
+  221  clear
+  222  git log
+  223  2b1d363904d6bfcbad76acc5905bbdcee95f8eb3
+  224  q
+  225  q exit -f
+  226  clear
+  227  git checkout 2b1d363904d6bfcbad76acc5905bbdcee95f8eb3
+  228  cat README.md
+  229  git checkout master
+  230  cat README.md
+  231  clear
+  232  git branch
+  233  git branch milkshake-flavours
+  234  git checkout milkshake-flavours
+  235  git branch
+  236  nano milkshakes.md
+  237  git status
+  238  git add milshakes.md
+  239  git add milkshakes.md
+  240  git status
+  241  git commit -m "added ininitial flavours"
+  242  git log
+  243  git checkout master
+  244  git branch
+  245  nano history
+  246  history > history.txt
+  247  git status
+  248  cd Desktop/
+  249  ls
+  250  cd TASk/
+  251  ls -la
+  252  vim git3
+  253  vi git3
+  254  find git3
+  255  find /  git 
+  256  pwd
+  257  find /home git
+  258  git branch
+  259  cd Desktop
+  260  \ls
+  261  cd TASk
+  262  git branch
+  263  git log
+  264  mkdir-git-exercises
+  265  mkdir git-basic-exercises
+  266  git status
+  267  cd git-basic-exercises
+  268  git status
+  269  find /home/recruit/ .git
+  270  ls -la
+  271  git status
+  272  git log
+  273  git config
+  274  git config --global user.email "mpontshanesizwe@gmail.com"
+  275  git add
+  276  git add git1
+  277  cd git-basic-exercises
+  278  git log
+  279  clear
+  280  \git checkout
+  281  cat README.md
+  282  git checkout master
+  283  git checkout commit 2b1d363904d6bfcbad76acc5905bbdcee95f8eb3
+  284  clear
+  285  got log
+  286  git log
+  287  clear
+  288  git checkout commit 2b1d363904d6bfcbad76acc5905bbdcee95f8eb3
+  289  git log
+  290  cd git-basic-exercises
+  291  git log
+  292  clear
+  293  git checkout 2b1d363904d6bfcbad76acc5905bbdcee95f8eb3
+  294  cat README.md
+  295  git checkout master
+  296  cat README.md
+  297  git branch
+  298  git branch history
+  299  git checkout history
+  300  git log
+  301  history > history.txt
+  302  git commit -m "added history"
+  303  git log
+  304  git checkout milkshake
+  305  git checkout milkshake-flavours
+  306  git log
+  307  nano README.md
+  308  git commit -m "random readme changes"
+  309  git checkout history
+  310  cat README.md
+  311  rm README>md echo "booya" > README.md
+  312  rm README.md echo "booya" > README.md
+  313  echo "booya" > README.md
+  314  git commit -m "rewrote readme"
+  315  \git checkout master
+  316  git log
+  317  git checkout milkshake-flavours
+  318  ls
+  319  git log
+  320  git checkout history
+  321  ls
+  322  git log
+  323  git checkout history
+  324  git log
+  325  ls
+  326  history > history.txt
