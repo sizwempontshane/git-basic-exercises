@@ -1,6 +1,4 @@
-chocolate
+chocolate 
 bubblegum
 vanilla
-strewberry
-coffee
-
+oreo
